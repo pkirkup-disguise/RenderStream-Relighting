@@ -25,7 +25,7 @@ This project provides GLSL fragment shaders that enable dynamic relighting of Re
 1. Ensure RenderStream-Python and RenderStream-shader are properly installed
 2. Clone this repository into your RenderStream Projects folder:
    ```
-   git clone https://github.com/yourusername/RenderStream-Relighting.git
+   git clone https://github.com/pkirkup-disguise/RenderStream-Relighting.git
    ```
 3. In Designer, configure a RenderStream layer to use the relighting shader assets
 
