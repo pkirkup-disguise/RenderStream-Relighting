@@ -52,7 +52,7 @@ uniform float roughness = 0.3; // RS: display="Surface Roughness" min=0.0 max=1.
 
 ## License
 
-[BSD-3-Clause license](LICENSE)
+[MIT](LICENSE)
 
 ## Acknowledgments
 
